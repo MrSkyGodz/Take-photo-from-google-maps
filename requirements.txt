@@ -2,3 +2,4 @@ streetview
 numpy
 pillow
 bytesbufio
+requests
