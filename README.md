@@ -1,1 +1,1 @@
-# google maps panaroma photo scraping
+# Google Maps Panaroma Photo Scraping
